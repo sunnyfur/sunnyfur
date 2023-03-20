@@ -1,5 +1,25 @@
 <h1 align="center">Hi there, I'm Polina 👋</h1>
 <p align="center"> Welcome to my profile! </p>
+<ul >
+  <li>
+    
+   [Game-quize](https://sunnyfur.github.io/songbird/ ) on JS ([code](https://github.com/sunnyfur/songbird))
+  
+  </li>
+  
+ <li>
+  
+ [Gem-puzzle](https://sunnyfur.github.io/gem-puzzle/ ) on JS ([code](https://github.com/sunnyfur/gem-puzzle))
+  
+  </li>
+  
+  <li>
+  
+ [Sapper-game](https://sunnyfur.github.io/sapper/) on React, TS ([code](https://github.com/sunnyfur/sapper))
+  
+  </li>
+  
+</ul>
 
 
 
