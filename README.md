@@ -3,6 +3,11 @@
 <ul >
   <li>
     
+Clone [Lider-task](https://lider-task-clone.netlify.app/ ) on React ([code](https://github.com/sunnyfur/any-do-clone/tree/develop/my-app ))
+
+  </li>
+   <li>
+    
    [Game-quize](https://sunnyfur.github.io/songbird/ ) on JS ([code](https://github.com/sunnyfur/songbird))
   
   </li>
@@ -17,6 +22,11 @@
   
  [Sapper-game](https://sunnyfur.github.io/sapper/) on React, TS ([code](https://github.com/sunnyfur/sapper))
   
+  </li>
+  <li>
+    
+ [Online zoo](https://github.com/sunnyfur/online-zoo ) on HTML,SCSS and JS ([code](https://github.com/sunnyfur/online-zoo ))
+
   </li>
   
 </ul>
