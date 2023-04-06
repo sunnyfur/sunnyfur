@@ -25,7 +25,7 @@ Clone [Lider-task](https://lider-task-clone.netlify.app/ ) on React ([code](http
   </li>
   <li>
     
- [Online zoo](https://github.com/sunnyfur/online-zoo ) on HTML,SCSS and JS ([code](https://github.com/sunnyfur/online-zoo ))
+ [Online zoo](https://sunnyfur.github.io/online-zoo/) on HTML,SCSS and JS ([code](https://github.com/sunnyfur/online-zoo ))
 
   </li>
   
